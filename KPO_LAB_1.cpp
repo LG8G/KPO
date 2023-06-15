@@ -2,6 +2,6 @@
 
 int main()
 {
-    std::cout << "Hello World!\n"; //Вывод фразы в консоль
+    std::cout << "Hello World!\n";
 }
 
